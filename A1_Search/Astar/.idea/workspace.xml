@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="486c5682-071e-4934-9dd6-32cbdfc23062" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/A1_Comp237.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/cereal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/question2DebuggingMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/question4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Comp237/quiz1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/A1_Mosab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_Mosab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../A1_NAndu/Assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 1/.idea/Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/Excercise#1_Garnett.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/excercise_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 2/students_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/Week_2_Intelligent_Agents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2_Intelligent_Agents/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/Breadth_First_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/Breadth_First_Search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/breadth_first_search/Breadth_First_Search/pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/Depth_First_Search/.idea/Depth_First_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/blinddog_simple_reflex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/depth_first_search/pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/uniformed_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/Depth_First_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/Node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/NodeTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/StackDFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/State.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/StateTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d1/d11/f111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d1/d12/f121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d1/d12/f122.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d1/f11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d1/f12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d2/d21/f211.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/Depth_First_Search/Depth_First_Search/d3/f31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/StackClassDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/StackClassDemoTest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/uniformed_search/queue_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_3_Problem_Solving_Uniformed_Search/week3_demo/.idea/week3_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Astar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Astar/.idea/Astar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/.idea/Greedy_search_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/GreedySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/NavigationData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/Node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/State.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code/TreePlot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2G3XpMlBMGYC2II7BHCuVu6sZrL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Greedy_search_code/Greedy_search_code" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="486c5682-071e-4934-9dd6-32cbdfc23062" name="Changes" comment="" />
+      <created>1665618423324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665618423324</updated>
+      <workItem from="1665618424648" duration="507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
